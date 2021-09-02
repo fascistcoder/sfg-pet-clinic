@@ -48,6 +48,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:fascistcoder/sfg-pet-clinic.git</developerConnection>
-        <tag>url</tag>
+        <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
